@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"htet-pos","appId":"1:206354405819:android:d75434b16d8610d543cc9e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"htet-pos","configurations":{"android":"1:206354405819:android:d75434b16d8610d543cc9e","ios":"1:206354405819:ios:51227a79c5f6bb5543cc9e"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206354405819",
+    "project_id": "htet-pos",
+    "storage_bucket": "htet-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206354405819:android:d75434b16d8610d543cc9e",
+        "android_client_info": {
+          "package_name": "com.kalaylay.koko_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkYXT7S_x1wjubW8JcPiJBiiC1Juo-NC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
